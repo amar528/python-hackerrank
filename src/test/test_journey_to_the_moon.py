@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from journey_to_the_moon import journeyToMoon
+from hackerrank.journey_to_the_moon import journeyToMoon
 
 
 class Test(TestCase):

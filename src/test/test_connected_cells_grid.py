@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from connected_cells_grid import get_largest_region
+from hackerrank.connected_cells_grid import get_largest_region
 
 
 class Test(TestCase):
